@@ -281,6 +281,26 @@ a:hover {
     box-shadow: inset 0 0 0 48px #3b5998;
 }
 
+/* instagram */
+
+.icon-border.instagram:hover::before {
+    -webkit-box-shadow: inset 0 0 0 48px #fb3958;
+    -moz-box-shadow: inset 0 0 0 48px #fb3958;
+    -o-box-shadow: inset 0 0 0 48px #fb3958;
+    -ms-box-shadow: inset 0 0 0 48px #fb3958;
+    box-shadow: inset 0 0 0 48px #fb3958;
+}
+
+/* youtube */
+
+.icon-border.youtube:hover::before {
+    -webkit-box-shadow: inset 0 0 0 48px #FF0000;
+    -moz-box-shadow: inset 0 0 0 48px #FF0000;
+    -o-box-shadow: inset 0 0 0 48px #FF0000;
+    -ms-box-shadow: inset 0 0 0 48px #FF0000;
+    box-shadow: inset 0 0 0 48px #FF0000;
+}
+
 /* twitter */
 
 .icon-border.twitter:hover::before {
