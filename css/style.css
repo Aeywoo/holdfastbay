@@ -1088,6 +1088,28 @@ p.footer-one-w3ls {
     min-height: 360px;
 }
 
+.inner_banner_agile2 {
+    text-align: center;
+    background: url(../images/photographs/GlenelgCourtMin.jpg) no-repeat bottom;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 360px;
+}
+
+.inner_banner_agile3 {
+    text-align: center;
+    background: url(../images/photographs/WharfPolesMin.jpg) no-repeat bottom;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 360px;
+}
+
 /*-- Page Details --*/
 
 .services-breadcrumb {
